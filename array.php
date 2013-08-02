@@ -1,7 +1,7 @@
 <?php
   
   $myarray = array('steve', 'joe', 'stan');
-  $myarray[] = 'mark';
+  $myarray[] = 'mark', 'jay';
  
   print_r($myarray);
 
