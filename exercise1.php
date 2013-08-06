@@ -1,6 +1,7 @@
 <?php
   $account = new account(10000);
   $account->debit(100);
+  $account->debit(100);
   $account->credit(200);
   $account->debit(400);
   $account->credit(500);
